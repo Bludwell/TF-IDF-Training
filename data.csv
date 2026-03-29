@@ -1,0 +1,350 @@
+text,schlaf,stress,bewegung,ernaehrung
+Heute war ein guter Tag.,0,0,0,0
+Mir geht es heute ganz gut.,0,0,0,0
+Ich bin heute ziemlich zufrieden.,0,0,0,0
+Heute fühlt sich alles recht ausgeglichen an.,0,0,0,0
+Ich komme gerade gut durch den Alltag.,0,0,0,0
+Im Moment ist bei mir alles okay.,0,0,0,0
+Ich fühle mich heute stabil.,0,0,0,0
+Heute passt für mich vieles ganz gut.,0,0,0,0
+Ich bin gerade recht entspannt.,0,0,0,0
+Es läuft im Moment eigentlich gut.,0,0,0,0
+Ich habe heute einen klaren Kopf.,0,0,0,0
+Mir geht es aktuell insgesamt gut.,0,0,0,0
+"Heute war ein normaler, angenehmer Tag.",0,0,0,0
+Ich fühle mich gerade recht ausgeglichen.,0,0,0,0
+Im Moment bin ich ganz zufrieden mit mir.,0,0,0,0
+Heute war alles ziemlich ruhig.,0,0,0,0
+Ich habe heute genug Energie.,0,0,0,0
+Gerade ist bei mir alles im grünen Bereich.,0,0,0,0
+Ich fühle mich aktuell ganz wohl.,0,0,0,0
+Im Moment klappt mein Alltag ganz gut.,0,0,0,0
+Heute geht es mir wirklich okay.,0,0,0,0
+Ich bin heute ruhig und zufrieden.,0,0,0,0
+Ich habe letzte Nacht schlecht geschlafen.,1,0,0,0
+Ich bin nachts oft aufgewacht.,1,0,0,0
+Ich konnte gestern lange nicht einschlafen.,1,0,0,0
+Mein Schlaf war sehr unruhig.,1,0,0,0
+Ich war heute Morgen trotz genug Zeit nicht erholt.,1,0,0,0
+Ich habe diese Woche kaum durchgeschlafen.,1,0,0,0
+Ich bin viel zu früh wach geworden.,1,0,0,0
+Ich hatte letzte Nacht wieder Schlafprobleme.,1,0,0,0
+Ich lag lange wach im Bett.,1,0,0,0
+Ich habe nur sehr wenig geschlafen.,1,0,0,0
+Ich bin heute total müde wegen der Nacht.,1,0,0,0
+Mein Schlafrhythmus ist gerade ziemlich kaputt.,1,0,0,0
+Ich schlafe in letzter Zeit echt schlecht.,1,0,0,0
+Ich bin nachts mehrmals wach geworden.,1,0,0,0
+Ich konnte gestern kaum zur Ruhe kommen.,1,0,0,0
+Mein Schlaf fühlt sich gerade nicht erholsam an.,1,0,0,0
+Ich wache aktuell oft mitten in der Nacht auf.,1,0,0,0
+Ich komme abends schlecht in den Schlaf.,1,0,0,0
+Ich habe die letzten Nächte kaum Tiefschlaf.,1,0,0,0
+Ich bin heute wie gerädert aufgewacht.,1,0,0,0
+Ich schlafe aktuell zu wenig.,1,0,0,0
+Die Nacht war wieder ziemlich schlecht.,1,0,0,0
+Heute war ein stressiger Tag.,0,1,0,0
+Ich bin gerade ziemlich gestresst.,0,1,0,0
+Auf der Arbeit ist aktuell sehr viel los.,0,1,0,0
+Mich setzt im Moment einiges unter Druck.,0,1,0,0
+Ich habe aktuell viel Stress im Kopf.,0,1,0,0
+Heute musste alles gleichzeitig passieren.,0,1,0,0
+Ich komme gerade kaum hinterher.,0,1,0,0
+Im Moment ist mir alles zu viel.,0,1,0,0
+Ich fühle mich derzeit stark unter Druck.,0,1,0,0
+Ich bin gerade schnell gereizt.,0,1,0,0
+Ich kann aktuell schlecht abschalten.,0,1,0,0
+Mich stresst die Arbeit im Moment sehr.,0,1,0,0
+Ich habe gerade dauernd Termine und Aufgaben.,0,1,0,0
+Mein Alltag ist aktuell ziemlich hektisch.,0,1,0,0
+Ich bin im Moment innerlich sehr unruhig.,0,1,0,0
+Ich denke gerade ständig an offene Aufgaben.,0,1,0,0
+Zurzeit belastet mich vieles gleichzeitig.,0,1,0,0
+Ich habe aktuell kaum eine ruhige Minute.,0,1,0,0
+Heute war einfach zu viel auf einmal.,0,1,0,0
+"Ich merke gerade deutlich, wie angespannt ich bin.",0,1,0,0
+"Es stresst mich, dass so viel liegen bleibt.",0,1,0,0
+Ich fühle mich im Moment dauerhaft angespannt.,0,1,0,0
+Ich habe mich heute kaum bewegt.,0,0,1,0
+Ich habe die letzten Tage fast keinen Sport gemacht.,0,0,1,0
+Ich sitze aktuell viel zu viel.,0,0,1,0
+Ich habe mich diese Woche wenig bewegt.,0,0,1,0
+Bewegung kommt bei mir gerade zu kurz.,0,0,1,0
+Ich war heute fast nur am Schreibtisch.,0,0,1,0
+Ich mache im Moment kaum Sport.,0,0,1,0
+Ich bewege mich aktuell einfach zu wenig.,0,0,1,0
+Ich bin heute fast gar nicht rausgekommen.,0,0,1,0
+Ich sitze in letzter Zeit nur noch rum.,0,0,1,0
+Ich habe heute kaum Schritte gesammelt.,0,0,1,0
+Ich war die letzten Tage sehr inaktiv.,0,0,1,0
+Ich habe meine Bewegung gerade ziemlich vernachlässigt.,0,0,1,0
+Ich war heute fast den ganzen Tag drinnen und habe mich kaum bewegt.,0,0,1,0
+Ich komme aktuell kaum zu Spaziergängen oder Sport.,0,0,1,0
+Ich hatte diese Woche fast keine körperliche Aktivität.,0,0,1,0
+Ich war heute sehr träge und kaum auf den Beinen.,0,0,1,0
+Ich hänge im Moment viel zu viel nur herum.,0,0,1,0
+Ich schiebe Sport gerade ständig auf.,0,0,1,0
+Ich bewege mich seit Tagen deutlich zu wenig.,0,0,1,0
+Ich bin aktuell körperlich kaum aktiv.,0,0,1,0
+Ich habe heute fast nur gesessen.,0,0,1,0
+Ich habe heute ungesund gegessen.,0,0,0,1
+Ich habe heute kaum etwas Richtiges gegessen.,0,0,0,1
+Meine Ernährung ist gerade ziemlich schlecht.,0,0,0,1
+Ich esse im Moment viel zu viel Süßes.,0,0,0,1
+Ich habe heute wieder nur Fast Food gegessen.,0,0,0,1
+Ich lasse gerade oft Mahlzeiten aus.,0,0,0,1
+Ich esse aktuell sehr unregelmäßig.,0,0,0,1
+Ich habe heute eher Snacks statt richtiger Mahlzeiten gegessen.,0,0,0,1
+Ich trinke im Moment zu wenig Wasser.,0,0,0,1
+Ich ernähre mich aktuell nicht besonders gut.,0,0,0,1
+Ich habe heute viel zu wenig gegessen.,0,0,0,1
+Ich greife gerade oft zu ungesundem Essen.,0,0,0,1
+Ich esse im Moment ziemlich chaotisch.,0,0,0,1
+Ich habe heute fast nur Fertigzeug gegessen.,0,0,0,1
+Meine Mahlzeiten sind aktuell total unregelmäßig.,0,0,0,1
+Ich esse gerade zu wenig Frisches.,0,0,0,1
+Ich habe heute wieder nur nebenbei irgendwas gegessen.,0,0,0,1
+Ich habe aktuell keinen guten Essrhythmus.,0,0,0,1
+Ich esse in letzter Zeit oft spät und durcheinander.,0,0,0,1
+Ich habe heute mehr Süßkram als richtige Mahlzeiten gegessen.,0,0,0,1
+"Ich merke, dass meine Ernährung gerade nicht gut ist.",0,0,0,1
+Ich habe die letzten Tage oft ungesund gegessen.,0,0,0,1
+Ich habe schlecht geschlafen und bin gerade ziemlich gestresst.,1,1,0,0
+Die Nacht war schlecht und heute ist der Stress direkt weitergegangen.,1,1,0,0
+Ich schlafe aktuell schlecht und habe gleichzeitig viel Druck.,1,1,0,0
+"Ich bin müde, weil ich kaum geschlafen habe, und dazu noch gestresst.",1,1,0,0
+Ich wache nachts oft auf und tagsüber ist mir alles zu viel.,1,1,0,0
+Ich habe wenig Schlaf und gerade sehr viel im Kopf.,1,1,0,0
+Mein Schlaf ist schlecht und die Arbeit stresst mich zusätzlich.,1,1,0,0
+Ich komme abends nicht zur Ruhe und tagsüber stehe ich unter Druck.,1,1,0,0
+Ich habe die letzten Nächte kaum geschlafen und bin entsprechend angespannt.,1,1,0,0
+Ich bin seit Tagen müde und gleichzeitig total gestresst.,1,1,0,0
+Nachts schlafe ich schlecht und tagsüber hetze ich nur noch.,1,1,0,0
+Ich bin wegen meiner schlechten Nächte schnell gereizt und gestresst.,1,1,0,0
+Ich schlafe zu wenig und kann aktuell kaum abschalten.,1,1,0,0
+Die Nächte sind unruhig und der Alltag ist gerade sehr hektisch.,1,1,0,0
+Ich komme weder nachts noch tagsüber richtig zur Ruhe.,1,1,0,0
+Mein Schlaf leidet gerade und gleichzeitig belastet mich viel.,1,1,0,0
+Ich habe aktuell Schlafprobleme und deutlich zu viel Stress.,1,1,0,0
+Ich bin nachts oft wach und tagsüber innerlich angespannt.,1,1,0,0
+Die letzten Nächte waren schlecht und heute war wieder ein stressiger Tag.,1,1,0,0
+Ich schlafe unruhig und fühle mich tagsüber stark unter Druck.,1,1,0,0
+Ich habe schlecht geschlafen und denke den ganzen Tag an offene Aufgaben.,1,1,0,0
+Zu wenig Schlaf und zu viel Stress machen mich gerade fertig.,1,1,0,0
+Ich habe schlecht geschlafen und mich heute kaum bewegt.,1,0,1,0
+Die Nacht war mies und ich saß heute fast nur herum.,1,0,1,0
+Ich bin müde wegen der Nacht und war dazu noch sehr inaktiv.,1,0,1,0
+Ich habe wenig geschlafen und heute kaum Schritte gesammelt.,1,0,1,0
+Mein Schlaf war schlecht und Bewegung kam heute gar nicht vor.,1,0,1,0
+Ich bin unausgeruht und habe mich den ganzen Tag kaum bewegt.,1,0,1,0
+Die letzten Nächte waren schlecht und Sport fällt gerade komplett aus.,1,0,1,0
+Ich schlafe schlecht und sitze aktuell viel zu viel.,1,0,1,0
+Ich hatte eine unruhige Nacht und war heute fast nur am Schreibtisch.,1,0,1,0
+Ich bin müde und komme aktuell kaum zu Bewegung.,1,0,1,0
+Mein Schlaf ist gerade schlecht und körperlich bin ich viel zu inaktiv.,1,0,1,0
+Ich habe wenig geschlafen und war heute fast den ganzen Tag drinnen.,1,0,1,0
+Die Nacht war kurz und ich habe mich danach kaum noch bewegt.,1,0,1,0
+Ich bin aktuell müde und bewege mich auch zu wenig.,1,0,1,0
+Ich wache oft gerädert auf und mache im Moment kaum Sport.,1,0,1,0
+Ich habe Schlafprobleme und bin tagsüber meistens nur am Sitzen.,1,0,1,0
+Ich schlafe schlecht und habe diese Woche fast keine Bewegung gehabt.,1,0,1,0
+Die Nacht war unruhig und mein Tag war körperlich komplett passiv.,1,0,1,0
+Ich bin erschöpft und bewege mich aktuell kaum.,1,0,1,0
+Ich habe schlecht geschlafen und Sport seit Tagen vernachlässigt.,1,0,1,0
+Mein Schlaf ist kaputt und ich komme kaum noch raus.,1,0,1,0
+Zu wenig Schlaf und zu wenig Bewegung ziehen mich gerade runter.,1,0,1,0
+Ich habe schlecht geschlafen und heute kaum etwas Richtiges gegessen.,1,0,0,1
+Die Nacht war schlecht und meine Ernährung war heute auch nicht gut.,1,0,0,1
+Ich bin müde und habe dazu noch sehr unregelmäßig gegessen.,1,0,0,1
+Ich schlafe aktuell schlecht und esse im Moment ziemlich chaotisch.,1,0,0,1
+Mein Schlaf war unruhig und heute gab es fast nur Snacks.,1,0,0,1
+Ich habe wenig geschlafen und dann wieder nur Fast Food gegessen.,1,0,0,1
+Die letzten Nächte waren schlecht und mein Essrhythmus ist auch kaputt.,1,0,0,1
+Ich bin unausgeruht und ernähre mich gerade nicht besonders gut.,1,0,0,1
+Ich konnte kaum schlafen und habe heute viel zu wenig gegessen.,1,0,0,1
+Ich habe Schlafprobleme und esse aktuell oft nur nebenbei.,1,0,0,1
+Die Nacht war kurz und heute habe ich mich wieder schlecht ernährt.,1,0,0,1
+Ich schlafe schlecht und lasse gerade oft Mahlzeiten aus.,1,0,0,1
+Ich bin müde und greife im Moment ständig zu ungesundem Essen.,1,0,0,1
+Mein Schlaf ist gerade mies und meine Ernährung leider auch.,1,0,0,1
+Ich wache oft gerädert auf und esse dann den ganzen Tag durcheinander.,1,0,0,1
+Ich habe kaum geschlafen und heute mehr Süßes als richtige Mahlzeiten gegessen.,1,0,0,1
+Die Nacht war anstrengend und mein Essen heute total unstrukturiert.,1,0,0,1
+Ich schlafe schlecht und trinke aktuell auch zu wenig Wasser.,1,0,0,1
+Mein Schlaf ist unruhig und ich habe heute fast nur Fertigzeug gegessen.,1,0,0,1
+Ich bin seit Tagen müde und esse gleichzeitig viel zu unregelmäßig.,1,0,0,1
+Ich habe schlecht geschlafen und aktuell keinen guten Essrhythmus.,1,0,0,1
+Zu wenig Schlaf und schlechte Ernährung merke ich gerade deutlich.,1,0,0,1
+Ich bin gerade sehr gestresst und bewege mich viel zu wenig.,0,1,1,0
+Heute war stressig und ich saß fast den ganzen Tag nur herum.,0,1,1,0
+Ich habe aktuell viel Druck und komme kaum zu Bewegung.,0,1,1,0
+Der Stress ist hoch und Sport fällt bei mir gerade aus.,0,1,1,0
+Ich bin angespannt und habe mich heute kaum bewegt.,0,1,1,0
+Mein Alltag ist gerade hektisch und Bewegung kommt total zu kurz.,0,1,1,0
+Ich stehe unter Druck und sitze fast nur am Schreibtisch.,0,1,1,0
+Ich habe viel Stress und sammle aktuell kaum Schritte.,0,1,1,0
+Es ist gerade alles zu viel und Sport schiebe ich ständig auf.,0,1,1,0
+Ich bin gestresst und war heute fast gar nicht draußen.,0,1,1,0
+Mich belastet gerade viel und ich bin körperlich sehr inaktiv.,0,1,1,0
+Ich komme kaum hinterher und bewege mich deshalb auch viel zu wenig.,0,1,1,0
+Im Moment habe ich viel im Kopf und kaum körperliche Aktivität.,0,1,1,0
+Ich bin innerlich angespannt und sitze aktuell zu viel.,0,1,1,0
+Heute war hektisch und Bewegung hat gar nicht stattgefunden.,0,1,1,0
+Ich fühle mich unter Druck und mache seit Tagen kaum Sport.,0,1,1,0
+Der Stress frisst gerade meine ganze Energie für Bewegung auf.,0,1,1,0
+Ich habe aktuell zu viel Stress und zu wenig Aktivität.,0,1,1,0
+Mein Kopf ist voll und mein Alltag besteht fast nur aus Sitzen.,0,1,1,0
+Heute war ein stressiger Tag und ich habe mich kaum bewegt.,0,1,1,0
+Ich bin gereizt und körperlich gerade viel zu passiv.,0,1,1,0
+Stress und Bewegungsmangel kommen bei mir gerade zusammen.,0,1,1,0
+Ich bin gerade gestresst und esse dazu auch noch ziemlich ungesund.,0,1,0,1
+Heute war stressig und ich habe kaum etwas Richtiges gegessen.,0,1,0,1
+Ich habe aktuell viel Druck und ernähre mich dabei ziemlich schlecht.,0,1,0,1
+Der Stress ist hoch und mein Essen total chaotisch.,0,1,0,1
+Ich bin angespannt und greife ständig zu ungesundem Essen.,0,1,0,1
+Mein Alltag ist gerade hektisch und Mahlzeiten fallen oft aus.,0,1,0,1
+Ich stehe unter Druck und esse meistens nur schnell irgendwas.,0,1,0,1
+Ich habe viel Stress und heute fast nur Snacks gegessen.,0,1,0,1
+Es ist gerade alles zu viel und ich koche kaum noch.,0,1,0,1
+Ich bin gestresst und habe heute wieder nur Fast Food gegessen.,0,1,0,1
+Mich belastet gerade viel und mein Essrhythmus leidet total.,0,1,0,1
+Ich komme kaum hinterher und esse deshalb sehr unregelmäßig.,0,1,0,1
+Im Moment habe ich viel im Kopf und achte kaum auf mein Essen.,0,1,0,1
+Ich bin innerlich angespannt und esse oft nur nebenbei.,0,1,0,1
+Heute war hektisch und gesund gegessen habe ich auch nicht.,0,1,0,1
+Ich fühle mich unter Druck und lasse gerade oft Mahlzeiten aus.,0,1,0,1
+Der Stress schlägt mir direkt auf meine Ernährung.,0,1,0,1
+Ich habe aktuell zu viel Stress und esse ständig Süßes.,0,1,0,1
+Mein Kopf ist voll und meine Mahlzeiten total unstrukturiert.,0,1,0,1
+Heute war ein stressiger Tag und ich habe kaum getrunken.,0,1,0,1
+Ich bin gereizt und esse im Moment ziemlich durcheinander.,0,1,0,1
+Stress und schlechte Ernährung kommen gerade oft zusammen.,0,1,0,1
+Ich habe mich heute kaum bewegt und dazu ungesund gegessen.,0,0,1,1
+Ich mache gerade wenig Sport und esse gleichzeitig ziemlich schlecht.,0,0,1,1
+Bewegung kommt zu kurz und meine Ernährung ist auch nicht gut.,0,0,1,1
+Ich saß heute fast nur herum und habe dazu nur Fast Food gegessen.,0,0,1,1
+Ich bin körperlich sehr inaktiv und esse aktuell total chaotisch.,0,0,1,1
+Ich bewege mich im Moment wenig und greife oft zu Süßem.,0,0,1,1
+Ich habe heute kaum Schritte gesammelt und fast nur Snacks gegessen.,0,0,1,1
+Sport fällt aus und mein Essrhythmus ist ebenfalls schlecht.,0,0,1,1
+Ich sitze gerade viel zu viel und ernähre mich daneben auch schlecht.,0,0,1,1
+Ich war heute kaum draußen und habe nichts Vernünftiges gegessen.,0,0,1,1
+Ich bewege mich zu wenig und esse derzeit viel Fertigzeug.,0,0,1,1
+Diese Woche hatte ich kaum Bewegung und ziemlich ungesunde Mahlzeiten.,0,0,1,1
+Ich bin aktuell sehr inaktiv und trinke außerdem zu wenig Wasser.,0,0,1,1
+Ich mache kaum Sport und lasse Mahlzeiten oft aus oder esse irgendwas.,0,0,1,1
+Ich habe meine Bewegung vernachlässigt und meine Ernährung gleich mit.,0,0,1,1
+Ich sitze viel und esse gerade zu viel ungesundes Zeug.,0,0,1,1
+Ich war heute fast nur drinnen und habe dazu total unregelmäßig gegessen.,0,0,1,1
+Bewegung und Ernährung laufen bei mir gerade beide nicht gut.,0,0,1,1
+Ich bin wenig aktiv und esse dazu noch ständig nebenbei.,0,0,1,1
+Ich habe heute fast nur gesessen und mehr Süßes als Mahlzeiten gegessen.,0,0,1,1
+Zu wenig Bewegung und schlechte Ernährung ziehen mich gerade runter.,0,0,1,1
+Ich komme kaum in Bewegung und esse im Moment auch nicht vernünftig.,0,0,1,1
+"Ich habe schlecht geschlafen, bin gestresst und bewege mich kaum.",1,1,1,0
+"Die Nacht war mies, der Tag stressig und Sport fiel komplett aus.",1,1,1,0
+"Ich bin müde, stark unter Druck und aktuell viel zu inaktiv.",1,1,1,0
+"Ich schlafe schlecht, habe viel im Kopf und sitze fast nur herum.",1,1,1,0
+"Die letzten Nächte waren unruhig, heute war hektisch und Bewegung gab es nicht.",1,1,1,0
+"Ich habe wenig Schlaf, viel Stress und kaum körperliche Aktivität.",1,1,1,0
+"Mein Schlaf ist schlecht, die Arbeit stresst mich und ich bewege mich zu wenig.",1,1,1,0
+"Ich komme nachts nicht zur Ruhe, tagsüber bin ich angespannt und sitze nur.",1,1,1,0
+"Ich bin seit Tagen müde, gestresst und komme nicht zu Bewegung.",1,1,1,0
+"Nachts wache ich auf, tagsüber ist alles zu viel und Sport bleibt liegen.",1,1,1,0
+"Ich schlafe zu wenig, stehe unter Druck und bin körperlich total passiv.",1,1,1,0
+"Die Nächte sind schlecht, der Alltag hektisch und ich sammle kaum Schritte.",1,1,1,0
+Ich komme weder zum Schlafen noch zum Abschalten und bewege mich kaum.,1,1,1,0
+"Mein Schlaf leidet, mein Stress ist hoch und ich sitze viel zu viel.",1,1,1,0
+"Ich habe aktuell Schlafprobleme, viel Druck und fast keine Bewegung.",1,1,1,0
+"Ich bin nachts oft wach, tagsüber angespannt und kaum auf den Beinen.",1,1,1,0
+"Die letzten Tage waren voller Stress, schlechter Nächte und wenig Aktivität.",1,1,1,0
+"Ich schlafe unruhig, fühle mich unter Druck und mache keinen Sport.",1,1,1,0
+"Zu wenig Schlaf, zu viel Stress und zu wenig Bewegung belasten mich gerade.",1,1,1,0
+"Ich bin müde, gereizt und fast den ganzen Tag am Sitzen.",1,1,1,0
+"Ich habe schlecht geschlafen, ständig offene Aufgaben im Kopf und war sehr inaktiv.",1,1,1,0
+"Schlafmangel, Stress und Bewegungsmangel kommen bei mir gerade zusammen.",1,1,1,0
+"Ich habe schlecht geschlafen, bin gestresst und esse gerade auch schlecht.",1,1,0,1
+"Die Nacht war mies, der Tag stressig und heute gab es kaum etwas Richtiges.",1,1,0,1
+"Ich bin müde, stark unter Druck und ernähre mich aktuell ziemlich chaotisch.",1,1,0,1
+"Ich schlafe schlecht, habe viel im Kopf und esse oft nur nebenbei.",1,1,0,1
+"Die letzten Nächte waren unruhig, heute war hektisch und mein Essen wieder ungesund.",1,1,0,1
+"Mein Schlaf ist schlecht, die Arbeit stresst mich und ich esse kaum vernünftig.",1,1,0,1
+"Ich komme nachts nicht zur Ruhe, tagsüber bin ich angespannt und esse schnell irgendwas.",1,1,0,1
+"Ich bin seit Tagen müde, gestresst und ernähre mich nicht gut.",1,1,0,1
+"Nachts wache ich auf, tagsüber ist alles zu viel und Mahlzeiten fallen aus.",1,1,0,1
+"Ich schlafe zu wenig, stehe unter Druck und greife oft zu Süßem.",1,1,0,1
+"Die Nächte sind schlecht, der Alltag hektisch und mein Essen total durcheinander.",1,1,0,1
+Ich komme weder zum Schlafen noch zum Abschalten und esse sehr unregelmäßig.,1,1,0,1
+"Mein Schlaf leidet, mein Stress ist hoch und gesund essen klappt gerade nicht.",1,1,0,1
+"Ich habe aktuell Schlafprobleme, viel Druck und schlechte Ernährung.",1,1,0,1
+"Ich bin nachts oft wach, tagsüber angespannt und esse meist nur Snacks.",1,1,0,1
+"Die letzten Tage waren voller Stress, schlechter Nächte und ungesunder Mahlzeiten.",1,1,0,1
+"Ich schlafe unruhig, fühle mich unter Druck und esse viel zu chaotisch.",1,1,0,1
+"Zu wenig Schlaf, zu viel Stress und schlechte Ernährung belasten mich gerade.",1,1,0,1
+"Ich bin müde, gereizt und habe heute kaum etwas Vernünftiges gegessen.",1,1,0,1
+"Ich habe schlecht geschlafen, offene Aufgaben im Kopf und wieder nur Fast Food gegessen.",1,1,0,1
+"Schlafmangel, Stress und schlechte Ernährung kommen bei mir gerade zusammen.",1,1,0,1
+"Ich habe schlecht geschlafen, mich kaum bewegt und heute ungesund gegessen.",1,0,1,1
+"Die Nacht war mies, ich saß viel und mein Essen war auch nicht gut.",1,0,1,1
+"Ich bin müde, sehr inaktiv und ernähre mich aktuell ziemlich schlecht.",1,0,1,1
+"Ich schlafe schlecht, bewege mich wenig und esse oft nur irgendwas.",1,0,1,1
+"Die letzten Nächte waren unruhig, heute war ich kaum aktiv und habe nur Snacks gegessen.",1,0,1,1
+"Ich habe wenig Schlaf, wenig Bewegung und keinen guten Essrhythmus.",1,0,1,1
+"Ich komme nachts nicht zur Ruhe, bewege mich tagsüber wenig und esse sehr chaotisch.",1,0,1,1
+"Ich bin seit Tagen müde, komme kaum in Bewegung und ernähre mich nicht gut.",1,0,1,1
+"Nachts wache ich auf, tagsüber bin ich träge und Mahlzeiten fallen aus.",1,0,1,1
+"Ich schlafe zu wenig, bewege mich kaum und greife oft zu Süßem.",1,0,1,1
+"Die Nächte sind schlecht, ich sammle kaum Schritte und esse total durcheinander.",1,0,1,1
+Ich komme weder zum Schlafen noch zu Bewegung und esse sehr unregelmäßig.,1,0,1,1
+"Mein Schlaf leidet, mein Körper ist inaktiv und mein Essen nicht besonders gut.",1,0,1,1
+"Ich habe aktuell Schlafprobleme, kaum Aktivität und schlechte Ernährung.",1,0,1,1
+"Ich bin nachts oft wach, tagsüber passiv und esse meist nur Snacks.",1,0,1,1
+"Die letzten Tage waren voller schlechter Nächte, wenig Bewegung und ungesunder Mahlzeiten.",1,0,1,1
+"Ich schlafe unruhig, bin körperlich träge und esse viel zu chaotisch.",1,0,1,1
+"Zu wenig Schlaf, zu wenig Bewegung und schlechte Ernährung belasten mich gerade.",1,0,1,1
+"Ich bin müde, kaum auf den Beinen und habe heute nichts Vernünftiges gegessen.",1,0,1,1
+"Ich habe schlecht geschlafen, mich kaum bewegt und wieder nur Fast Food gegessen.",1,0,1,1
+"Schlafmangel, Bewegungsmangel und schlechte Ernährung kommen bei mir gerade zusammen.",1,0,1,1
+"Ich bin gestresst, bewege mich kaum und esse gerade auch schlecht.",0,1,1,1
+"Heute war stressig, ich saß viel und mein Essen war auch nicht gut.",0,1,1,1
+"Ich bin stark unter Druck, sehr inaktiv und ernähre mich aktuell chaotisch.",0,1,1,1
+"Ich habe viel im Kopf, bewege mich wenig und esse oft nur irgendwas.",0,1,1,1
+"Der Tag war hektisch, ich war kaum aktiv und habe nur Snacks gegessen.",0,1,1,1
+"Ich habe viel Stress, wenig Bewegung und keinen guten Essrhythmus.",0,1,1,1
+"Die Arbeit stresst mich, Sport fällt aus und gesund essen klappt auch nicht.",0,1,1,1
+"Ich bin tagsüber angespannt, sitze viel und esse sehr chaotisch.",0,1,1,1
+"Ich bin seit Tagen gestresst, komme kaum in Bewegung und ernähre mich nicht gut.",0,1,1,1
+"Es ist gerade alles zu viel, ich bin träge und Mahlzeiten fallen aus.",0,1,1,1
+"Ich stehe unter Druck, bewege mich kaum und greife oft zu Süßem.",0,1,1,1
+"Der Alltag ist hektisch, ich sammle kaum Schritte und esse total durcheinander.",0,1,1,1
+"Ich komme kaum zum Abschalten, kaum zu Bewegung und esse sehr unregelmäßig.",0,1,1,1
+"Mein Stress ist hoch, ich bin inaktiv und mein Essen ist nicht besonders gut.",0,1,1,1
+"Ich habe aktuell viel Druck, kaum Aktivität und schlechte Ernährung.",0,1,1,1
+"Ich bin angespannt, tagsüber passiv und esse meist nur Snacks.",0,1,1,1
+"Die letzten Tage waren voller Stress, wenig Bewegung und ungesunder Mahlzeiten.",0,1,1,1
+"Ich fühle mich unter Druck, bin körperlich träge und esse viel zu chaotisch.",0,1,1,1
+"Zu viel Stress, zu wenig Bewegung und schlechte Ernährung belasten mich gerade.",0,1,1,1
+"Ich bin gereizt, kaum auf den Beinen und habe heute nichts Vernünftiges gegessen.",0,1,1,1
+"Ich habe viel Stress, mich kaum bewegt und wieder nur Fast Food gegessen.",0,1,1,1
+"Stress, Bewegungsmangel und schlechte Ernährung kommen bei mir gerade zusammen.",0,1,1,1
+"Ich habe schlecht geschlafen, bin gestresst, bewege mich kaum und esse ungesund.",1,1,1,1
+"Die Nacht war mies, der Tag stressig, ich saß viel und habe schlecht gegessen.",1,1,1,1
+"Ich bin müde, stark unter Druck, sehr inaktiv und ernähre mich aktuell chaotisch.",1,1,1,1
+"Ich schlafe schlecht, habe viel im Kopf, bewege mich wenig und esse oft nur irgendwas.",1,1,1,1
+"Die letzten Nächte waren unruhig, heute war hektisch, ich war kaum aktiv und habe nur Snacks gegessen.",1,1,1,1
+"Ich habe wenig Schlaf, viel Stress, wenig Bewegung und keinen guten Essrhythmus.",1,1,1,1
+"Mein Schlaf ist schlecht, die Arbeit stresst mich, Sport fällt aus und gesund essen klappt auch nicht.",1,1,1,1
+"Ich komme nachts nicht zur Ruhe, sitze tagsüber viel und esse sehr chaotisch.",1,1,1,1
+"Ich bin seit Tagen müde, gestresst, komme kaum in Bewegung und ernähre mich nicht gut.",1,1,1,1
+"Nachts wache ich auf, tagsüber ist alles zu viel, ich bin träge und Mahlzeiten fallen aus.",1,1,1,1
+"Ich schlafe zu wenig, stehe unter Druck, bewege mich kaum und greife oft zu Süßem.",1,1,1,1
+"Die Nächte sind schlecht, der Alltag hektisch, ich sammle kaum Schritte und esse total durcheinander.",1,1,1,1
+"Ich komme weder zum Schlafen noch zum Abschalten, kaum zu Bewegung und esse sehr unregelmäßig.",1,1,1,1
+"Mein Schlaf leidet, mein Stress ist hoch, ich bin inaktiv und mein Essen ist nicht besonders gut.",1,1,1,1
+"Ich habe aktuell Schlafprobleme, viel Druck, kaum Aktivität und schlechte Ernährung.",1,1,1,1
+"Ich bin nachts oft wach, tagsüber angespannt, passiv und esse meist nur Snacks.",1,1,1,1
+"Die letzten Tage waren voller Stress, schlechter Nächte, wenig Bewegung und ungesunder Mahlzeiten.",1,1,1,1
+"Ich schlafe unruhig, fühle mich unter Druck, bin körperlich träge und esse viel zu chaotisch.",1,1,1,1
+"Zu wenig Schlaf, zu viel Stress, zu wenig Bewegung und schlechte Ernährung belasten mich gerade.",1,1,1,1
+"Ich bin müde, gereizt, kaum auf den Beinen und habe heute nichts Vernünftiges gegessen.",1,1,1,1
+"Ich habe schlecht geschlafen, viel Stress, mich kaum bewegt und wieder nur Fast Food gegessen.",1,1,1,1
